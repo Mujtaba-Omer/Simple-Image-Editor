@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: aquamarine;
+    background-color: #64ffcb;
 }
 .container{
     width: 850px;
